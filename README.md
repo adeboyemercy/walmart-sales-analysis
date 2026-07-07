@@ -52,11 +52,18 @@ The dataset contains weekly sales records for 45 Walmart stores together with ex
   ## Dashboard Features
   ### Excel Dashboards
   
+  
   <img width="850" height="272" alt="Screenshot 2026-07-07 115035" src="https://github.com/user-attachments/assets/7c89ac43-69b4-405e-a1d8-fd1946657abb" />
+
+
 
 #### Correlation Matrix
 
+
 <img width="944" height="221" alt="image" src="https://github.com/user-attachments/assets/a40ca8be-e4f4-4628-912b-048dc770777c" />
+
+
+
 
 
 Overall, the correlation coefficients are all close to zero, indicating that none of the four variables has a strong linear relationship with weekly sales. This suggest that other factors may ply a more significant role in influencing Walmart’s weekly sales.
@@ -68,6 +75,7 @@ This suggest that none of the external factors individually has a strong linear 
   
   <img width="615" height="332" alt="Screenshot 2026-07-03 103427" src="https://github.com/user-attachments/assets/479b54bd-c173-43a7-a579-097eacb9d070" />
 
+
 ## Key Insights
 
   -  Walmart generated approximately $6.74 Billion in Total sales
@@ -76,6 +84,7 @@ This suggest that none of the external factors individually has a strong linear 
   -  Sales performance varied considerably across the 45 stores.
   -  External economic variables showed  varying degrees of association with weekly sales.
   -  Interactive dashboards make it easier to minitor performance and support business decisions.
+
 
 ## Repository Contents
 
