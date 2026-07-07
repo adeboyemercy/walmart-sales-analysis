@@ -3,10 +3,12 @@
 ## Dashboards
 
 ### Excel Dashboard
-![Excel Dashboard] (Excel_Dashboard.png)
+! [Excel Dashboard] 
+(Excel_Dashboard.png)
 
 ### Power BI Dashboard
-![Power BI Dashboard] (Power%20BI_Dashboard.png)
+![Power BI Dashboard] 
+(Power%20BI_Dashboard.png)
 
 ## Key Insights
 -  Total Sales: $6.74 Billion
