@@ -5,12 +5,13 @@ This project analyzes Walmart's historical weekly sales data to uncover key busi
 This project demonstrates practical data analysis, visualization, and dashboard development skills that support data-driven business decision-making. 
 
 ## Project Ojectives
-•	Analyse Walmart’s weekly sales performance.
-•	Identify the highest and lowest performing stores.
-•	Examine monthly sales trends.
-•	Compare holiday and non-holiday sales
-•	Investigate relationships between weekly sales and external factors 
-•	Design an interactive Microsoft Excel dashboard and Power BI dashboard for business reporting.
+- Analyse Walmart’s weekly sales performance.
+- Identify the highest and lowest performing stores.
+- Examine monthly sales trends.
+- Compare holiday and non-holiday sales
+- Investigate relationships between weekly sales and external factors
+- Design an interactive Microsoft Excel dashboard and Power BI dashboard for business reporting.
+
 ## Business Questions
 This project answers the following question:
 1.	What are Walmart’s total and average weekly sales?
