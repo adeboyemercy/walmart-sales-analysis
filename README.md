@@ -25,17 +25,16 @@ This project answers the following question:
 ## Dataset Information
 The dataset contains weekly sales records for 45 Walmart stores together with external economic indicators including:
 
-•	Store Number 
-•	Date 
-•	Weekly Sales
-•	Holiday Flag
-•	Temperature
-•	Fuel Price
-•	CPI
-•	Unemployment
+- Store Number 
+- Date 
+- Weekly Sales
+- Holiday Flag
+- Temperature
+- Fuel Price
+- CPI
+- Unemployment
 
 ## Tools Used
-
 - #### Microsoft Excel
   * Data Cleaning
   * Pivot Tables
