@@ -1,7 +1,6 @@
 # Walmart Sales Analysis and Interactive Dashboard
 ## Project Overview
 This project analyzes Walmart's historical weekly sales data to uncover key business insights using Microsoft Excel and Power BI. The analysis evaluates store performance, sales trends over time, the effect of holidays on sales, and the influence of external economic factors including Fuel Prices, Customer Price Index (CPI), Temperature, and Unemployment.
-
 This project demonstrates practical data analysis, visualization, and dashboard development skills that support data-driven business decision-making. 
 
 ## Project Ojectives
@@ -25,6 +24,7 @@ This project answers the following question:
 
 ## Dataset Information
 The dataset contains weekly sales records for 45 Walmart stores together with external economic indicators including:
+
 •	Store Number 
 •	Date 
 •	Weekly Sales
@@ -36,14 +36,14 @@ The dataset contains weekly sales records for 45 Walmart stores together with ex
 
 ## Tools Used
 
-- Microsoft Excel
+- #### Microsoft Excel
   * Data Cleaning
   * Pivot Tables
   * Pivot Charts
   * Interactive Dashboard
   * Correlation Analysis
  
-- Power BI
+- #### Power BI
   * Data Modeling
   * Interactive Dashboard
   * KPI Cards
@@ -52,9 +52,12 @@ The dataset contains weekly sales records for 45 Walmart stores together with ex
 
   ## Dashboard Features
   ### Excel Dashboards
+  
   <img width="850" height="272" alt="Screenshot 2026-07-07 115035" src="https://github.com/user-attachments/assets/7c89ac43-69b4-405e-a1d8-fd1946657abb" />
 
+
   ### Power BI Dashboard
+  
   <img width="615" height="332" alt="Screenshot 2026-07-03 103427" src="https://github.com/user-attachments/assets/479b54bd-c173-43a7-a579-097eacb9d070" />
 
 ## Key Insights
