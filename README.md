@@ -1,7 +1,5 @@
 # Walmart Sales Analysis and Interactive Dashboard
-
 <img width="528" height="378" alt="Image" src="https://github.com/user-attachments/assets/dc0e467e-dcad-46a4-a81a-0e13b5988072" />
-
 
 ## Project Overview
 This project analyzes Walmart's historical weekly sales data to uncover key business insights using Microsoft Excel and Power BI. The analysis evaluates store performance, sales trends over time, the effect of holidays on sales, and the influence of external economic factors including Fuel Prices, Customer Price Index (CPI), Temperature, and Unemployment.
