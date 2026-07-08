@@ -131,6 +131,7 @@ The dataset contains weekly sales records for 45 Walmart stores together with ex
 
 ## Tools Used
 - #### Microsoft Excel
+- 
   * Data Cleaning
   * Pivot Tables
   * Pivot Charts
@@ -145,6 +146,7 @@ The dataset contains weekly sales records for 45 Walmart stores together with ex
   * Business Visualizations
 
   ## Dashboard Features
+  
   ### Excel Dashboards
   
   - Interactive Slicers
@@ -153,14 +155,22 @@ The dataset contains weekly sales records for 45 Walmart stores together with ex
   - Monthly trend analysis
   - Holiday comparison
   - External factor visualization
-  
+
+
+
+
   
   <img width="850" height="272" alt="Screenshot 2026-07-07 115035" src="https://github.com/user-attachments/assets/7c89ac43-69b4-405e-a1d8-fd1946657abb" />
+
+
+
+
 
 #### Correlation Matrix
 
 
 <img width="944" height="221" alt="image" src="https://github.com/user-attachments/assets/a40ca8be-e4f4-4628-912b-048dc770777c" />
+
 
 Correlation Results
 Variable 	Sales
